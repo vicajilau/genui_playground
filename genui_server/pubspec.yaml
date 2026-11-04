@@ -9,7 +9,7 @@ environment:
 resolution: workspace
 
 dependencies:
-  serverpod: 4.0.4
+  serverpod: 4.1.0
   genkit: ^1.0.1
   genkit_google_genai: ^1.0.1
 
